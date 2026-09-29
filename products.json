@@ -1,2 +1,8 @@
-[]
-cerveja amstel lata 
+[
+  {
+    "name": "Cerveja amstel lata",
+    "keywords": ["amstel", "lata", "cerveja"],
+    "target_price": 4,
+    "alert_below_average_percent": 15
+  }
+]
