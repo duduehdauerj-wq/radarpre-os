@@ -1,0 +1,27 @@
+{
+  "route_priority": [
+    "Supermarket Freguesia",
+    "Mundial Freguesia",
+    "Armazém Urbano",
+    "Hortifruti",
+    "Rede Economia"
+  ],
+  "candidate_chains": [
+    {"name":"Supermarket Freguesia","chain":"Supermarket","neighborhood":"Freguesia","route_priority":1},
+    {"name":"Mundial Freguesia","chain":"Mundial","neighborhood":"Freguesia","route_priority":2},
+    {"name":"Armazém Urbano","chain":"Armazém Urbano","neighborhood":"Freguesia/Jacarepaguá","route_priority":3},
+    {"name":"Hortifruti","chain":"Hortifruti","neighborhood":"Freguesia/Jacarepaguá","route_priority":4},
+    {"name":"Rede Economia","chain":"Rede Economia","neighborhood":"Freguesia/Jacarepaguá","route_priority":5},
+    {"name":"Guanabara","chain":"Guanabara","neighborhood":"Jacarepaguá"},
+    {"name":"Prezunic","chain":"Prezunic","neighborhood":"Jacarepaguá"},
+    {"name":"Assaí Atacadista","chain":"Assaí","neighborhood":"Jacarepaguá"},
+    {"name":"Dom Atacadista","chain":"Dom Atacadista","neighborhood":"Jacarepaguá"},
+    {"name":"Vianense","chain":"Vianense","neighborhood":"Jacarepaguá"},
+    {"name":"Intercontinental","chain":"Intercontinental","neighborhood":"Jacarepaguá"},
+    {"name":"Multi Market","chain":"Multi Market","neighborhood":"Jacarepaguá"},
+    {"name":"Super Compras","chain":"Super Compras","neighborhood":"Jacarepaguá"},
+    {"name":"Unidos","chain":"Unidos","neighborhood":"Jacarepaguá"}
+  ],
+  "discovery_source": "OpenStreetMap",
+  "note": "A lista geográfica dinâmica é consultada no OpenStreetMap e guardada em cache. Nomes de redes são candidatas, não endereços de filial confirmados. Não presumimos preços nem coordenadas."
+}

@@ -1,0 +1,16 @@
+RADAR DE MERCADO — FREGUESIA/JACAREPAGUÁ
+
+Este pacote contém os arquivos do projeto. Para colocar no GitHub:
+
+1. Extraia o ZIP no computador.
+2. Abra o repositório radar-mercado no GitHub.
+3. Clique em Add file > Upload files.
+4. Arraste o conteúdo desta pasta para a página do GitHub e confirme em Commit changes.
+
+Depois disso, para ligar os avisos no Telegram, será preciso cadastrar os dois Secrets
+descritos no README.md. O radar e o painel funcionam sem Telegram.
+
+Os preços de Amazon e Mercado Livre são consultados automaticamente. Para mercados
+locais, o projeto mantém a lista de lojas e só mostra preço quando uma fonte verificável
+for configurada; não inventa preço. Produtos globais são definidos em
+config/products.json. As listas pessoais de Dudu e Mãe são separadas.

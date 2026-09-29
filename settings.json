@@ -1,0 +1,11 @@
+{
+  "region": "Freguesia, Jacarepaguá, Rio de Janeiro, RJ",
+  "radius_km": 12,
+  "online_shipping_default_brl": 0.0,
+  "include_displacement_cost": false,
+  "history_days": 365,
+  "history_min_samples_for_deal": 3,
+  "amazon_enabled": true,
+  "mercadolivre_enabled": true,
+  "retailer_feeds": []
+}
